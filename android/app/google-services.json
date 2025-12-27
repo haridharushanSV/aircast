@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768826918238",
+    "project_id": "aircast-c39df",
+    "storage_bucket": "aircast-c39df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768826918238:android:8e165e8e7dbb9cc15d7bcf",
+        "android_client_info": {
+          "package_name": "com.example.aircast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5HoqQjxENqe5EbAwZWs4x43qIMt_X7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
