@@ -71,6 +71,13 @@ lib/
 
 ---
 
+## Legal Notice
+
+- Air Cast does not host or own any TV streams
+- All content belongs to their respective owners
+- The developer is not responsible for stream availability or legality
+- Users are responsible for their own viewing decisions
+
 ## License
 
 This project is intended for educational and personal use only.
